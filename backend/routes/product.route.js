@@ -24,4 +24,3 @@ router.delete("/", protectRoute, adminRoute, deleteProduct);
 // 2:01:54
 
 export default router;
-
